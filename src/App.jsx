@@ -3,7 +3,7 @@ import gsap from "gsap";
 import Navbar from "./components/Navbar";
 import HeroSection from "./components/HeroSection";
 import StickyCard002 from "./components/StickyCard002"; 
-import Footer from "./components/footer";
+import Footer from "./components/Footer";
 import Slide from "./components/Slide";
 import CustomCarousel from "./components/Carousel";
 
