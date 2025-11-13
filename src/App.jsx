@@ -35,8 +35,8 @@ function App() {
 
  
   const cards = [
-    { id: 1, image: "public/r1.webp", alt: "Sneaker 1" },
-    { id: 2, image: "public/r2.webp", alt: "Sneaker 2" },
+    { id: 1, image: "r1.webp", alt: "Sneaker 1" },
+    { id: 2, image: "r2.webp", alt: "Sneaker 2" },
     { id: 3, image: "https://redtape.com/cdn/shop/files/APPAREL-1600x900_1700x_7bde42c0-69fb-460c-a0ea-0474f204dec5_1700x.webp?v=1741691113", alt: "Sneaker 3" },
     { id: 4, image: "https://redtape.com/cdn/shop/files/1000x900-1_08f1e2ae-9972-4736-aece-62bf8e3159ba.webp?v=1741691932", alt: "Sneaker 4" },
   ];

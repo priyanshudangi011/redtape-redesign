@@ -16,22 +16,22 @@ const contentStyle = {
 const slideImages = [
   {
     id: 1,
-    src: "public/Carousel1.jpg",
+    src: "Carousel1.jpg",
 
   },
   {
     id: 2,
-    src: "public/Carousel2.jpg",
+    src: "Carousel2.jpg",
     
   },
   {
     id: 3,
-    src: "public/Carousel3.jpg",
+    src: "Carousel3.jpg",
     caption: "Comfort Meets Style",
   },
   {
     id: 4,
-    src: "public/Carousel4.jpg",
+    src: "Carousel4.jpg",
   
   },
 ];
